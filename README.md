@@ -4,7 +4,7 @@
 - 🎮 Apaixonado por desenvolvimento de jogos com Unity (2D e 3D)
 - 🧠 Estudando padrões de projeto e aprendizado de máquina
 - 💬 Me pergunte sobre *TypeScript, Node.js, Unity, Git, Docker e IaaS*
-- 🎸 No tempo livre, gosto de tocar guitarra e desenvolver jogos indie
+- 🎸 No tempo livre, gosto de jogar e ler HQs
 
 <br>
 
@@ -38,7 +38,6 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=WladDMG&show_icons=true&theme=vision-friendly-dark" alt="Wladmir's GitHub stats"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WladDMG&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
 
@@ -61,12 +60,8 @@
 
 ## 🔗 &nbsp;Social Links
 
-<p align="left">
-  <a href="https://github.com/WladDMG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-WladDMG-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/wladdmg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-wladdmg-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/wladmir-silveira-04b200234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wladmir Silveira-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://wladdmg.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-wladdmg-FA5C5C?style=flat&logo=itchdotio&logoColor=white" alt="Itch.io"/>
