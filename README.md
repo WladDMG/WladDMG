@@ -1,10 +1,10 @@
 <h1 align="left">Olá <img src="./hi.gif" height="30"width="30px">, eu sou Wladmir Silveira</h1>
 
 - 🔥 Desenvolvedor Full Stack com foco em aplicações web, mobile e arquitetura escalável
-- 🎮 Apaixonado por desenvolvimento de jogos com Unity (2D e 3D)
+- 👾 Apaixonado por desenvolvimento de jogos com Unity (2D e 3D)
 - 🧠 Estudando padrões de projeto e aprendizado de máquina
 - 💬 Me pergunte sobre *TypeScript, Node.js, Unity, Git, Docker e IaaS*
-- 🎸 No tempo livre, gosto de jogar e ler HQs
+- 🎮 No tempo livre, gosto de jogar e ler HQs
 
 <br>
 
