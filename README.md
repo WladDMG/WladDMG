@@ -55,8 +55,9 @@
 
 ## 🧩 &nbsp;Projetos em Destaque
 
-- 🔗 **Brain IA Legal Assistant** – Assistente jurídico com IA, MongoDBVector, LangChain e RAG *(Em desenvolvimento)*
-- 🎮 **Jogos Indie no Itch.io** – Jogos 2D e 3D com Unity para mobile e web
+- 🔗 [**Fábrica de Apps**](https://fabricadeapps.dev) – Plataforma white-label com agentes de IA integrados, automações n8n e geração multimodal *(Em desenvolvimento)*
+- 🎮 [**Jogos Indie no Itch.io**](https://wladdmg.itch.io/) – Jogos 2D e 3D desenvolvidos com Unity para mobile e web
+
 
 <br>
 
