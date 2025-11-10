@@ -3,7 +3,7 @@
 - 🔥 Desenvolvedor Full Stack com foco em aplicações web, mobile e arquitetura escalável
 - 👾 Apaixonado por desenvolvimento de jogos com Unity (2D e 3D)
 - 🧠 Estudando padrões de projeto e aprendizado de máquina
-- 💬 Me pergunte sobre *TypeScript, Node.js, Unity, Git, Docker e IaaS*
+- 💬 Me pergunte sobre *Node.js, Unity, Git, Docker, n8n e IaaS*
 - 🎮 No tempo livre, gosto de jogar e ler HQs
 
 <br>
@@ -17,6 +17,8 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=E44C30)
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
