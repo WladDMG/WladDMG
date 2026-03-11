@@ -3,7 +3,7 @@
 - 🔥 Desenvolvedor Full Stack com foco em aplicações web, mobile e arquitetura escalável
 - 👾 Apaixonado por desenvolvimento de jogos com Unity (2D e 3D)
 - 🧠 Estudando padrões de projeto e aprendizado de máquina
-- 💬 Me pergunte sobre *Node.js, Unity, Git, Docker, n8n e IaaS*
+- 💬 Me pergunte sobre *Node.js, Unity, Git, Docker, n8n e SaaS*
 - 🎮 No tempo livre, gosto de jogar e ler HQs
 
 <br>
