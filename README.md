@@ -47,6 +47,7 @@
 ## 🎓 &nbsp;Certificações e Formação
 
 - 🎓 **Bacharelado em Sistemas de Informação** – UNIASSELVI *(Em andamento)*
+- 🧾 **Google Cloud Computing Foundations Certificate**
 - 🧾 **AWS Certified Cloud Practitioner**
 - 🧾 **EF SET English Certificate – B2**
 
